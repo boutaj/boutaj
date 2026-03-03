@@ -20,6 +20,7 @@
 **DevOps / Tools**: Linux, Docker, Nginx, Apache, Git, GitHub, GitLab, SSH, Postman, Insomnia
 
 **Security & Systems**: OWASP Top 10, Authentication, Session Management, Password Hashing, DNS, Routing, TCP/IP and Networking basics
+
 ---
 ## 📫 Connect With Me
 
